@@ -3,5 +3,3 @@
 sorry for the lack of content, this website is for testing purposes only and to satisfy my curiosity.
 
 If you want to set one up for yourself, just [follow this guide](https://gist.github.com/TylerFisher/6127328).
-
-<iframe src="https://octo.lifeispain.org/webcam/?action=stream" style="width: 500px; height: 130px; border: 0px"></iframe>
